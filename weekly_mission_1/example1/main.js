@@ -1,3 +1,5 @@
+/* Example 1: Objetos de JS */
+
 /* 1. Creación de un objeto con propiedades */
 let myCar = new Object();
 myCar.make = "ford";
