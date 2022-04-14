@@ -12,4 +12,4 @@ export default class Logger {
     log (message) {
       console.log(`[${this.name}] ${message}`)
     }
-  }
+}
