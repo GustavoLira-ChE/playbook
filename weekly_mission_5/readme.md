@@ -8,5 +8,5 @@ Proyectos desarrollados en la semana 5:
 | ------------- |:-------------:| -----:|
 |`Bot Telegram`|1|[Link al repo](https://github.com/GustavoLira-ChE/fizzbuxx-refactoring-project)|
 |`Prisma DB`|2,3|[Link al repo](https://github.com/GustavoLira-ChE/api-express-db)|
-|`Cliente Servidor`|4|[Link al repo]()|
+|`Cliente Servidor`|4|[Link al repo](https://github.com/GustavoLira-ChE/client-launchx)|
 
